@@ -5,7 +5,7 @@ export default function Meta() {
     return (
         <Head>
            /* Primary Meta Tags */
-            <title>Vivek Patel Portfolio - Computer Engineering Student</title>
+            <title>Sai Kwan - Freelance Web Designer</title>
             <meta charSet="utf-8" />
             <meta name="title" content="Sai Kwan Portfolio - Personal Website" />
             <meta name="description"
